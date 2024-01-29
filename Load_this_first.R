@@ -128,3 +128,5 @@ voron_tree<-function(df, variable, fgroups, iter = 50, shape){
         
       }
   }}
+
+load("all_BALA_data.RDA")
